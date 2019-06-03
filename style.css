@@ -446,7 +446,7 @@ img {
           height: 70px; } }
       @media only screen and (max-width: 767px) {
         .header-area .pixel-main-menu .classy-navbar .nav-brand {
-          width: 80px;
+          width: 280px;
           margin-right: 10px; } }
       .header-area .pixel-main-menu .classy-navbar .classynav ul li a {
         font-weight: 500;

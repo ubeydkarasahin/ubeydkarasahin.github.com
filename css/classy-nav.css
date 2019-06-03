@@ -100,6 +100,17 @@ img {
     .classy-navbar .nav-brand:focus, .classy-navbar .nav-brand:hover {
       font-size: 40px;
       font-weight: 700; }
+  @media only screen and (min-width: 300px) and (max-width: 767px) {
+    .classy-navbar .nav-brand {
+    font-size: 25px;
+    font-weight: 700;
+    color: #000;
+    display: inline-block;
+    margin-right: 30px; }
+    .classy-navbar .nav-brand:focus, .classy-navbar .nav-brand:hover {
+      font-size: 25px;
+      font-weight: 700; }
+    }
 
 .classynav ul li {
   display: inline-block;
