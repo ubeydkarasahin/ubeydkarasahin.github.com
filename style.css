@@ -837,6 +837,11 @@ img {
     .single_gallery_item:hover .hover-content .zoom-img {
       margin-top: 0;
       opacity: 1; }
+  .single_gallery_item .hover-content .hawk-img {
+    width: auto;
+    height: auto;
+    margin-bottom: 10px;
+  }
 
 /* Feature Area CSS */
 .pixel-feature-area {
